@@ -8,7 +8,7 @@ html, body {
 
 canvas {
   border-radius: 50%;
-  animation: pulse 3s infinite alternate;
+  animation: pulse 4s infinite alternate;
   animation-timing-function: ease-in-out;
 }
 
